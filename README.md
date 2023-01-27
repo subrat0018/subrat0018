@@ -20,7 +20,7 @@
 <a href="https://instagram.com/subrat_naha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subrat_naha" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/subrat0018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subrat0018" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/subrat0018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="subrat0018" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/subrachandra2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="subrachandra2003" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@subrachandra2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="subrachandra2003" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/subratchandra2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subratchandra2003" height="30" width="40" /></a>
 </p>
 
